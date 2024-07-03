@@ -3,7 +3,7 @@
 # Authors:
 ## Mahdi_mohammadi_400413269
 ## Amirhossein_karami_400413206
-## Golnaz_jalvandi_400411349
+## Golnaz_jalvandi_400411342
 ## Fixed Point Unit
 
 ## Overview
