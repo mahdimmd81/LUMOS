@@ -58,8 +58,8 @@ The square root calculation in the FPU is implemented using a digit-by-digit met
 
 -The algorithm is implemented as follows in the Verilog code:
 
-```verilog
 
+// Square Root Circuit
 reg [WIDTH - 1 : 0] root = 32'b0;
 reg root_ready;
 reg [WIDTH-1:0] co_oprand1 = operand_1;
@@ -91,7 +91,7 @@ begin
 end
 root_ready = 1;
 
-```verilog
+
 
 
 ![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png.jpeg)
