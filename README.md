@@ -93,11 +93,6 @@ root_ready = 1;
 
 
 
-
-![p1](image.png)
-![Alt text](image1.png)
-![Alt text](image2.png)
-
 - Explain the code in assembly.s:
 
 main:
@@ -142,3 +137,7 @@ loop:
 
 
         //........................................................//
+
+![p1](image.png)
+![Alt text](image1.png)
+![Alt text](image2.png)
