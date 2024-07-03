@@ -95,7 +95,7 @@ root_ready = 1;
 
 
 ![p1](p1.png)
-![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png%20(2).jpeg)
+![Alt text](image2.png)
 ![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png%20(1).jpeg)
 
 - Explain the code in assembly.s:
