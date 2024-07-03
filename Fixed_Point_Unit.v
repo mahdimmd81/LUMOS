@@ -35,7 +35,7 @@ module Fixed_Point_Unit
         else        ready = 'bz;
     end
     // ------------------- //
-    // Square Root Circuit //
+    // Square Root Circuit. //
     // ------------------- //
     reg [WIDTH - 1 : 0] root=32'b0;
     reg root_ready;
