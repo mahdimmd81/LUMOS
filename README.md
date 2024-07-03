@@ -91,7 +91,7 @@ begin
 end
 root_ready = 1;
 
-## 
+```verilog
 
 
 ![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png.jpeg)
