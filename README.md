@@ -94,7 +94,7 @@ root_ready = 1;
 
 
 
-![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png.jpeg)
+![Alt text](C:\Users\ASUS\Documents\GitHub\LUMOS\Images)
 ![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png%20(2).jpeg)
 ![Alt text](file:///C:/Users/ASUS/Desktop/New%20folder%20(2)/image.png%20(1).jpeg)
 
