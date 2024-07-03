@@ -138,6 +138,6 @@ loop:
 
         //........................................................//
 
-![image](image.png)
-![image1](image1.png)
-![image2](image2.png)
+![image](image.jpeg)
+![image1](image1.jpeg)
+![image2](image2.jpeg)
