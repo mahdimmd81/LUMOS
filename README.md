@@ -1,10 +1,10 @@
-## Computer_Organization_project
-## The Marauder's Map
-## Authors:
-# Mahdi_mohammadi_400413269
-# Amirhossein_karami_400413206
-# Golnaz_jalvandi_400411349
-# Fixed Point Unit
+# Computer_Organization_project
+# The Marauder's Map
+# Authors:
+## Mahdi_mohammadi_400413269
+## Amirhossein_karami_400413206
+## Golnaz_jalvandi_400411349
+## Fixed Point Unit
 
 ## Overview
 
@@ -56,7 +56,7 @@ The square root calculation in the FPU is implemented using a digit-by-digit met
     - If the subtraction result is non-negative, update the root.
 3. **Finalization**: Set the ready signal to indicate the completion of the operation.
 
-The algorithm is implemented as follows in the Verilog code:
+-The algorithm is implemented as follows in the Verilog code:
 
 ```verilog
 // Square Root Circuit
