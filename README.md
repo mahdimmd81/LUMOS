@@ -138,6 +138,6 @@ loop:
 
         //........................................................//
 
-![p1](image.png)
-![Alt text](image1.png)
-![Alt text](image2.png)
+![image](image.png)
+![image1](image1.png)
+![image2](image2.png)
